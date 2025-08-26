@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Gandiva App",
+  title: "Ghandiva App",
   description: "dari ghandiva.biz.id",
 };
 
